@@ -22,4 +22,10 @@ b-4
 c=a-b
 print ("El resultado de la resta es "+c)
 
+imprimir la multiplicacion de los siguientes numeros
+a=2
+b=6
+c=a*b
+print ("El resultado de la multiplicaicon es "+c)
+
 
