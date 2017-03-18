@@ -4,3 +4,5 @@ print ("El telefono premium de la marca samsung en el 2017 es el samsung galaxy 
 imprimir el telefono premium de la marca huawei 
 print ("El telefono premium de la marca huawei es el P10")
 
+imprimir el telefono premium de la  marca motorola 
+print ("El telefono premium de la marca motorola es el Moto z")
