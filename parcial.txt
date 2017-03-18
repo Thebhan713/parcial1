@@ -10,4 +10,10 @@ print ("El telefono premium de la marca motorola es el moto z"
 imprimir el telefono premium de la marca xiaomi 
 print ("El telefono premium de la marca xiami es el Xiaomi mi Mix")
 
+imprimir la suma de los siguientes numeros
+a=2
+b=3
+c= a+b
+print ("El resultado de la suma es "+c)
+
 
