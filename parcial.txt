@@ -11,21 +11,27 @@ imprimir el telefono premium de la marca xiaomi
 print ("El telefono premium de la marca xiami es el Xiaomi mi Mix")
 
 imprimir la suma de los siguientes numeros
-a=2
-b=3
-c= a+b
-print ("El resultado de la suma es "+c)
+a=2;
+b=3;
+c= a+b;
+print ("El resultado de la suma es "+"c");
 
 mprimir la resta de los siguientes numeros
-a=9
-b-4
-c=a-b
-print ("El resultado de la resta es "+c)
+a=9;
+b-4;
+c=a-b;
+print ("El resultado de la resta es "+"c");
 
 imprimir la multiplicacion de los siguientes numeros
-a=2
-b=6
-c=a*b
-print ("El resultado de la multiplicaicon es "+c)
+a=2;
+b=6;
+c=a*b;
+print ("El resultado de la multiplicaicon es "+"c");
+
+mprimir la division de estos numeros 
+a=10;
+b=2;
+c=a/b;
+print ("El resultado de la division es "+"c");
 
 
