@@ -16,4 +16,10 @@ b=3
 c= a+b
 print ("El resultado de la suma es "+c)
 
+mprimir la resta de los siguientes numeros
+a=9
+b-4
+c=a-b
+print ("El resultado de la resta es "+c)
+
 
