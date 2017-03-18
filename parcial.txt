@@ -34,4 +34,7 @@ b=2;
 c=a/b;
 print ("El resultado de la division es "+"c");
 
+imprimir las mejores camaras en moviles del 2017
+print ("Las 3 mejores camaras en moviles del 2016 son Iphone 7 Plus, Samsung Galaxy S7, Pixel Google");
+
 
